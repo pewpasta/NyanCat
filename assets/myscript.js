@@ -9,7 +9,7 @@ var RandomNyans = getRandomInt(30);
 var NyanCats = [];
 var x = 0;
 var y = 0;
-var audio = new Audio("https://ia800501.us.archive.org/33/items/nyannyannyan/NyanCatoriginal.mp3");
+var audio = new Audio("https://cdn.discordapp.com/attachments/886850834720235603/973487102681575454/troll.mp3");
 audio.currentTime = 0;
 
 for (let i = 0; i < RandomNyans; i++) {
